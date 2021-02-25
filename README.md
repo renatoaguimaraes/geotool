@@ -1,6 +1,13 @@
 # Geotool
 Distance matrix
 
+```bash
+./build.sh
+./run.sh
+```
+
+http://localhost:8085/graphql
+
 ### Graphql matrix query
 
 ```graphql
