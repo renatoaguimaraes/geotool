@@ -1,2 +1,2 @@
 #!/bin/bash
-docker build -t novitatus.com/graphqlgeotool .
+docker build -t novitatus.com/geotool .
