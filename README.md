@@ -8,7 +8,7 @@ Distance matrix
 
 http://localhost:8085/graphql
 
-### Graphql matrix query
+### Graphql distance matrix query
 
 ```graphql
 {
@@ -81,7 +81,7 @@ http://localhost:8085/graphql
   }
 }
 ```
-### Query response
+### Distance matrix response
 ```json
 {
   "data": {
